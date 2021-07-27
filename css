@@ -26,13 +26,13 @@ p {
  	padding: 10px;
  }
  #chicken {
-  background-color: lightgoldenrodyellow;
+ 	background-color: lightgoldenrodyellow;
  }
  #sushi{
-  background-color: red;
+ 	background-color: red;
  }
  #beef{
-  background-color: greenyellow;
+ 	background-color: greenyellow;
  }
  .row {
  	width: 100%;
